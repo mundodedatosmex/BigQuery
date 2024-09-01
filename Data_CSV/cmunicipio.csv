@@ -1,0 +1,1340 @@
+1,1,Aguascalientes
+2,1,San Francisco de los Romo
+3,1,El Llano
+4,1,Rinc�n de Romos
+5,1,Cos�o
+6,1,San Jos� de Gracia
+7,1,Tepezal�
+8,1,Pabell�n de Arteaga
+9,1,Asientos
+10,1,Calvillo
+11,1,Jes�s Mar�a
+12,2,Mexicali
+13,2,Tecate
+14,2,Tijuana
+15,2,Playas de Rosarito
+16,2,Ensenada
+17,3,La Paz
+18,3,Los Cabos
+19,3,Comond�
+20,3,Loreto
+21,3,Muleg�
+22,4,Campeche
+23,4,Carmen
+24,4,Palizada
+25,4,Candelaria
+26,4,Esc�rcega
+27,4,Champot�n
+28,4,Hopelch�n
+29,4,Calakmul
+30,4,Tenabo
+31,4,Hecelchak�n
+32,4,Calkin�
+33,5,Saltillo
+34,5,Arteaga
+35,5,San Buenaventura
+36,5,Frontera
+37,5,Monclova
+38,5,Casta�os
+39,5,Ramos Arizpe
+40,5,Piedras Negras
+41,5,Nava
+42,5,Acu�a
+43,5,M�zquiz
+44,5,Zaragoza
+45,5,Morelos
+46,5,Allende
+47,5,Villa Uni�n
+48,5,Hidalgo
+49,5,Sabinas
+50,5,San Juan de Sabinas
+51,5,Torre�n
+52,5,Matamoros
+53,5,Viesca
+54,5,Nadadores
+55,5,Cuatro Ci�negas
+56,5,San Pedro
+57,5,Francisco I. Madero
+58,5,Parras
+59,6,Colima
+60,6,Tecom�n
+61,6,Manzanillo
+62,6,Armer�a
+63,6,Coquimatl�n
+64,6,Comala
+65,6,Cuauht�moc
+66,6,Ixtlahuac�n
+67,6,Minatitl�n
+68,6,Villa de �lvarez
+69,7,Tuxtla Guti�rrez
+70,7,San Fernando
+71,7,Berrioz�bal
+72,7,Ocozocoautla de Espinosa
+73,7,Suchiapa
+74,7,Chiapa de Corzo
+75,7,San Crist�bal de las Casas
+76,7,Chamula
+77,7,Ixtapa
+78,7,Zinacant�n
+79,7,Acala
+80,7,Teopisca
+81,7,Oxchuc
+82,7,Huixt�n
+83,7,Tenejapa
+84,7,Mitontic
+85,7,Reforma
+86,7,Ju�rez
+87,7,Pichucalco
+88,7,Sunuapa
+89,7,Ixtacomit�n
+90,7,Ixtapangajoya
+91,7,Tecpat�n
+92,7,Copainal�
+93,7,Coapilla
+94,7,Huitiup�n
+95,7,Ray�n
+96,7,Pueblo Nuevo Solistahuac�n
+97,7,Jitotol
+98,7,Bochil
+99,7,San Juan Cancuc
+100,7,Sabanilla
+101,7,Simojovel
+102,7,El Bosque
+103,7,Larr�inzar
+104,7,Santiago el Pinar
+105,7,Chenalh�
+106,7,Pantelh�
+107,7,Sital�
+108,7,Salto de Agua
+109,7,Tila
+110,7,Tumbal�
+111,7,Yajal�n
+112,7,Ocosingo
+113,7,Chil�n
+114,7,Palenque
+115,7,Comit�n de Dom�nguez
+116,7,Tzimol
+117,7,Bella Vista
+118,7,Frontera Comalapa
+119,7,La Trinitaria
+120,7,La Independencia
+121,7,Las Margaritas
+122,7,Venustiano Carranza
+123,7,Las Rosas
+124,7,La Concordia
+125,7,Angel Albino Corzo
+126,7,Montecristo de Guerrero
+127,7,Socoltenango
+128,7,Cintalapa
+129,7,Jiquipilas
+130,7,Arriaga
+131,7,Villaflores
+132,7,Tonal�
+133,7,Villa Corzo
+134,7,Pijijiapan
+135,7,Mapastepec
+136,7,Acapetahua
+137,7,Acacoyagua
+138,7,Escuintla
+139,7,Villa Comaltitl�n
+140,7,Huixtla
+141,7,Mazat�n
+142,7,Huehuet�n
+143,7,Tuzant�n
+144,7,Tapachula
+145,7,Suchiate
+146,7,Metapa
+147,7,Tuxtla Chico
+148,7,Uni�n Ju�rez
+149,7,Cacahoat�n
+150,7,Motozintla
+151,7,Mazapa de Madero
+152,8,Chihuahua
+153,8,Riva Palacio
+154,8,Aquiles Serd�n
+155,8,Bach�niva
+156,8,Guerrero
+157,8,Nuevo Casas Grandes
+158,8,Ascensi�n
+159,8,Janos
+160,8,Casas Grandes
+161,8,Buenaventura
+162,8,G�mez Far�as
+163,8,Ignacio Zaragoza
+164,8,Madera
+165,8,Namiquipa
+166,8,Tem�sachic
+167,8,Praxedis G. Guerrero
+168,8,Ahumada
+169,8,Ojinaga
+170,8,Aldama
+171,8,Julimes
+172,8,Delicias
+173,8,Rosales
+174,8,Meoqui
+175,8,Guachochi
+176,8,Bocoyna
+177,8,Cusihuiriachi
+178,8,Santa Isabel
+179,8,Carich�
+180,8,Ch�nipas
+181,8,Urique
+182,8,Guadalupe y Calvo
+183,8,San Francisco del Oro
+184,8,Balleza
+185,8,Santa B�rbara
+186,8,Camargo
+187,8,Saucillo
+188,8,Valle de Zaragoza
+189,8,La Cruz
+190,8,Hidalgo del Parral
+191,8,L�pez
+192,8,Jim�nez
+193,8,Coronado
+194,9,�lvaro Obreg�n
+195,9,Azcapotzalco
+196,9,Benito Ju�rez
+197,9,Coyoac�n
+198,9,Cuajimalpa de Morelos
+199,9,Gustavo A. Madero
+200,9,Iztacalco
+201,9,Iztapalapa
+202,9,La Magdalena Contreras
+203,9,Miguel Hidalgo
+204,9,Milpa Alta
+205,9,Tl�huac
+206,9,Tlalpan
+207,9,Xochimilco
+208,10,Durango
+209,10,Nuevo Ideal
+210,10,Canatl�n
+211,10,San Juan del R�o
+212,10,Santiago Papasquiaro
+213,10,San Dimas
+214,10,Guadalupe Victoria
+215,10,Pe��n Blanco
+216,10,P�nuco de Coronado
+217,10,Poanas
+218,10,Nombre de Dios
+219,10,Vicente Guerrero
+220,10,S�chil
+221,10,Pueblo Nuevo
+222,10,Mezquital
+223,10,G�mez Palacio
+224,10,Lerdo
+225,10,Mapim�
+226,10,Tlahualilo
+227,10,Ocampo
+228,10,El Oro
+229,10,Nazas
+230,10,Rodeo
+231,10,Cuencam�
+232,10,Santa Clara
+233,11,Guanajuato
+234,11,Silao de la Victoria
+235,11,Romita
+236,11,San Francisco del Rinc�n
+237,11,Pur�sima del Rinc�n
+238,11,Manuel Doblado
+239,11,Irapuato
+240,11,Salamanca
+241,11,P�njamo
+242,11,Cuer�maro
+243,11,Abasolo
+244,11,Huan�maro
+245,11,Le�n
+246,11,San Felipe
+247,11,San Miguel de Allende
+248,11,Dolores Hidalgo Cuna de la Independencia Nacional
+249,11,San Diego de la Uni�n
+250,11,San Luis de la Paz
+251,11,Doctor Mora
+252,11,San Jos� Iturbide
+253,11,Celaya
+254,11,Apaseo el Grande
+255,11,Comonfort
+256,11,Santa Cruz de Juventino Rosas
+257,11,Villagr�n
+258,11,Cortazar
+259,11,Valle de Santiago
+260,11,Jaral del Progreso
+261,11,Apaseo el Alto
+262,11,Jer�cuaro
+263,11,Coroneo
+264,11,Ac�mbaro
+265,11,Tarandacuao
+266,11,Morole�n
+267,11,Salvatierra
+268,11,Yuriria
+269,11,Santiago Maravat�o
+270,11,Uriangato
+271,12,Chilpancingo de los Bravo
+272,12,General Heliodoro Castillo
+273,12,Leonardo Bravo
+274,12,Tixtla de Guerrero
+275,12,Ayutla de los Libres
+276,12,Mochitl�n
+277,12,Quechultenango
+278,12,Tecoanapa
+279,12,Acapulco de Ju�rez
+280,12,Juan R. Escudero
+281,12,San Marcos
+282,12,Iguala de la Independencia
+283,12,Huitzuco de los Figueroa
+284,12,Tepecoacuilco de Trujano
+285,12,Eduardo Neri
+286,12,Taxco de Alarc�n
+287,12,Buenavista de Cu�llar
+288,12,Teloloapan
+289,12,Arcelia
+290,12,Apaxtla
+291,12,Tlapehuala
+292,12,Cutzamala de Pinz�n
+293,12,Pungarabato
+294,12,Coyuca de Catal�n
+295,12,Ajuchitl�n del Progreso
+296,12,Zir�ndaro
+297,12,La Uni�n de Isidoro Montes de Oca
+298,12,Petatl�n
+299,12,Zihuatanejo de Azueta
+300,12,T�cpan de Galeana
+301,12,Atoyac de �lvarez
+302,12,Coyuca de Ben�tez
+303,12,Olinal�
+304,12,Atenango del R�o
+305,12,Chilapa de �lvarez
+306,12,Ahuacuotzingo
+307,12,Huamuxtitl�n
+308,12,Tlapa de Comonfort
+309,12,Tlalixtaquilla de Maldonado
+310,12,Zapotitl�n Tablas
+311,12,Acatepec
+312,12,Atlixtac
+313,12,Copanatoyac
+314,12,San Luis Acatl�n
+315,12,Metlat�noc
+316,12,Cochoapa el Grande
+317,12,Alcozauca de Guerrero
+318,12,Ometepec
+319,12,Florencio Villarreal
+320,12,Copala
+321,12,Azoy�
+322,12,Marquelia
+323,12,Cuajinicuilapa
+324,12,Igualapa
+325,13,Pachuca de Soto
+326,13,Mineral del Chico
+327,13,Mineral del Monte
+328,13,Ajacuba
+329,13,San Agust�n Tlaxiaca
+330,13,Mineral de la Reforma
+331,13,Zapotl�n de Ju�rez
+332,13,Jacala de Ledezma
+333,13,Pisaflores
+334,13,Ixmiquilpan
+335,13,Zimap�n
+336,13,Cardonal
+337,13,Tasquillo
+338,13,Alfajayucan
+339,13,Huichapan
+340,13,Tecozautla
+341,13,Nopala de Villagr�n
+342,13,Actopan
+343,13,Santiago de Anaya
+344,13,San Salvador
+345,13,El Arenal
+346,13,Mixquiahuala de Ju�rez
+347,13,Progreso de Obreg�n
+348,13,Chilcuautla
+349,13,Tezontepec de Aldama
+350,13,Tlahuelilpan
+351,13,Tula de Allende
+352,13,Tepeji del R�o de Ocampo
+353,13,Chapantongo
+354,13,Tepetitl�n
+355,13,Tetepango
+356,13,Tlaxcoapan
+357,13,Atitalaquia
+358,13,Atotonilco de Tula
+359,13,Huejutla de Reyes
+360,13,San Felipe Orizatl�n
+361,13,Jaltoc�n
+362,13,Huautla
+363,13,Atlapexco
+364,13,Huazalingo
+365,13,Yahualica
+366,13,Xochiatipan
+367,13,Molango de Escamilla
+368,13,Tepehuac�n de Guerrero
+369,13,Lolotla
+370,13,Tlanchinol
+371,13,Tlahuiltepa
+372,13,Ju�rez Hidalgo
+373,13,Zacualtip�n de �ngeles
+374,13,Calnali
+375,13,Xochicoatl�n
+376,13,Atotonilco el Grande
+377,13,Eloxochitl�n
+378,13,Metztitl�n
+379,13,San Agust�n Metzquititl�n
+380,13,Metepec
+381,13,Huehuetla
+382,13,San Bartolo Tutotepec
+383,13,Agua Blanca de Iturbide
+384,13,Tenango de Doria
+385,13,Huasca de Ocampo
+386,13,Acatl�n
+387,13,Epazoyucan
+388,13,Tulancingo de Bravo
+389,13,Acaxochitl�n
+390,13,Cuautepec de Hinojosa
+391,13,Santiago Tulantepec de Lugo Guerrero
+392,13,Singuilucan
+393,13,Tizayuca
+394,13,Zempoala
+395,13,Tolcayuca
+396,13,Villa de Tezontepec
+397,13,Apan
+398,13,Tlanalapa
+399,13,Almoloya
+400,13,Emiliano Zapata
+401,13,Tepeapulco
+402,14,Guadalajara
+403,14,Zapopan
+404,14,Tala
+405,14,Amatit�n
+406,14,Zapotlanejo
+407,14,San Pedro Tlaquepaque
+408,14,Tlajomulco de Z��iga
+409,14,El Salto
+410,14,Acatl�n de Ju�rez
+411,14,Villa Corona
+412,14,Zacoalco de Torres
+413,14,Jocotepec
+414,14,Chapala
+415,14,Poncitl�n
+416,14,Huejuquilla el Alto
+417,14,Mezquitic
+418,14,Villa Guerrero
+419,14,Bola�os
+420,14,Totatiche
+421,14,Colotl�n
+422,14,Santa Mar�a de los �ngeles
+423,14,Tequila
+424,14,Magdalena
+425,14,Etzatl�n
+426,14,San Juanito de Escobedo
+427,14,Ameca
+428,14,Ahualulco de Mercado
+429,14,San Mart�n Hidalgo
+430,14,Mascota
+431,14,San Sebasti�n del Oeste
+432,14,San Juan de los Lagos
+433,14,Jalostotitl�n
+434,14,San Miguel el Alto
+435,14,San Juli�n
+436,14,Arandas
+437,14,San Ignacio Cerro Gordo
+438,14,Teocaltiche
+439,14,Villa Hidalgo
+440,14,Encarnaci�n de D�az
+441,14,Yahualica de Gonz�lez Gallo
+442,14,Mexticac�n
+443,14,Ca�adas de Obreg�n
+444,14,Valle de Guadalupe
+445,14,Lagos de Moreno
+446,14,Ojuelos de Jalisco
+447,14,Uni�n de San Antonio
+448,14,San Diego de Alejandr�a
+449,14,Tepatitl�n de Morelos
+450,14,Tototl�n
+451,14,Atotonilco el Alto
+452,14,Ocotl�n
+453,14,Jamay
+454,14,La Barca
+455,14,Ayotl�n
+456,14,Uni�n de Tula
+457,14,Talpa de Allende
+458,14,Puerto Vallarta
+459,14,Cabo Corrientes
+460,14,Tomatl�n
+461,14,Cocula
+462,14,Juchitl�n
+463,14,El Grullo
+464,14,Tonaya
+465,14,Villa Purificaci�n
+466,14,La Huerta
+467,14,Autl�n de Navarro
+468,14,Casimiro Castillo
+469,14,Cuautitl�n de Garc�a Barrag�n
+470,14,Cihuatl�n
+471,14,Zapotl�n el Grande
+472,14,Sayula
+473,14,Tizap�n el Alto
+474,14,Zapotiltic
+475,14,Tamazula de Gordiano
+476,14,Tuxpan
+477,14,Pihuamo
+478,14,Tecalitl�n
+479,14,Santa Mar�a del Oro
+480,15,Toluca
+481,15,Acambay de Ru�z Casta�eda
+482,15,Aculco
+483,15,Atlacomulco
+484,15,Timilpan
+485,15,San Felipe del Progreso
+486,15,San Jos� del Rinc�n
+487,15,Jocotitl�n
+488,15,Ixtlahuaca
+489,15,Jiquipilco
+490,15,Temoaya
+491,15,Almoloya de Ju�rez
+492,15,Villa Victoria
+493,15,Zacazonapan
+494,15,Valle de Bravo
+495,15,Zinacantepec
+496,15,Tejupilco
+497,15,Luvianos
+498,15,Amatepec
+499,15,Tlatlaya
+500,15,Coatepec Harinas
+501,15,Ixtapan de la Sal
+502,15,Tonatico
+503,15,Zumpahuac�n
+504,15,Lerma
+505,15,Xonacatl�n
+506,15,Otzolotepec
+507,15,San Mateo Atenco
+508,15,Mexicaltzingo
+509,15,Calimaya
+510,15,Chapultepec
+511,15,San Antonio la Isla
+512,15,Tenango del Valle
+513,15,Tenancingo
+514,15,Malinalco
+515,15,Ocuilan
+516,15,Atizap�n
+517,15,Almoloya del R�o
+518,15,Texcalyacac
+519,15,Tianguistenco
+520,15,Xalatlaco
+521,15,Capulhuac
+522,15,Ocoyoacac
+523,15,Huixquilucan
+524,15,Atizap�n de Zaragoza
+525,15,Naucalpan de Ju�rez
+526,15,Tlalnepantla de Baz
+527,15,Polotitl�n
+528,15,Jilotepec
+529,15,Soyaniquilpan de Ju�rez
+530,15,Nicol�s Romero
+531,15,Isidro Fabela
+532,15,Tepotzotl�n
+533,15,Coyotepec
+534,15,Huehuetoca
+535,15,Cuautitl�n Izcalli
+536,15,Teoloyucan
+537,15,Cuautitl�n
+538,15,Melchor Ocampo
+539,15,Tultitl�n
+540,15,Tultepec
+541,15,Ecatepec de Morelos
+542,15,Zumpango
+543,15,Tequixquiac
+544,15,Apaxco
+545,15,Hueypoxtla
+546,15,Coacalco de Berrioz�bal
+547,15,Tec�mac
+548,15,Jaltenco
+549,15,Tonanitla
+550,15,Nextlalpan
+551,15,Teotihuac�n
+552,15,San Mart�n de las Pir�mides
+553,15,Acolman
+554,15,Otumba
+555,15,Axapusco
+556,15,Temascalapa
+557,15,Tezoyuca
+558,15,Chiautla
+559,15,Tepetlaoxtoc
+560,15,Texcoco
+561,15,Chiconcuac
+562,15,Atenco
+563,15,Chimalhuac�n
+564,15,Chicoloapan
+565,15,Ixtapaluca
+566,15,Chalco
+567,15,Valle de Chalco Solidaridad
+568,15,Temamatla
+569,15,Cocotitl�n
+570,15,Tlalmanalco
+571,15,Ayapango
+572,15,Tenango del Aire
+573,15,Ozumba
+574,15,Juchitepec
+575,15,Tepetlixpa
+576,15,Amecameca
+577,15,Atlautla
+578,15,Ecatzingo
+579,15,Nezahualc�yotl
+580,16,Morelia
+581,16,Huaniqueo
+582,16,Coeneo
+583,16,Quiroga
+584,16,Tzintzuntzan
+585,16,Acuitzio
+586,16,Madero
+587,16,Puru�ndiro
+588,16,Jos� Sixto Verduzco
+589,16,Angamacutiro
+590,16,Panind�cuaro
+591,16,Zacapu
+592,16,Pur�pero
+593,16,Huandacareo
+594,16,Cuitzeo
+595,16,Chuc�ndiro
+596,16,Cop�ndaro
+597,16,Tar�mbaro
+598,16,Santa Ana Maya
+599,16,Zinap�cuaro
+600,16,Indaparapeo
+601,16,Quer�ndaro
+602,16,Sahuayo
+603,16,Pajacuar�n
+604,16,Vista Hermosa
+605,16,Tanhuato
+606,16,Yur�cuaro
+607,16,Ixtl�n
+608,16,La Piedad
+609,16,Numar�n
+610,16,Churintzio
+611,16,Zin�paro
+612,16,Penjamillo
+613,16,Marcos Castellanos
+614,16,Jiquilpan
+615,16,Villamar
+616,16,Zamora
+617,16,Ecuandureo
+618,16,Tanganc�cuaro
+619,16,Chilchota
+620,16,Jacona
+621,16,Tangamandapio
+622,16,Cotija
+623,16,Tocumbo
+624,16,Ting�ind�n
+625,16,Uruapan
+626,16,Paracho
+627,16,Cher�n
+628,16,Nahuatzen
+629,16,Tingambato
+630,16,Los Reyes
+631,16,Perib�n
+632,16,Tanc�taro
+633,16,Nuevo Parangaricutiro
+634,16,Buenavista
+635,16,Tepalcatepec
+636,16,Aguililla
+637,16,Apatzing�n
+638,16,Par�cuaro
+639,16,Coahuayana
+640,16,Coalcom�n de V�zquez Pallares
+641,16,Aquila
+642,16,Tumbiscat�o
+643,16,L�zaro C�rdenas
+644,16,Epitacio Huerta
+645,16,Contepec
+646,16,Tlalpujahua
+647,16,Maravat�o
+648,16,Irimbo
+649,16,Senguio
+650,16,Tiquicheo de Nicol�s Romero
+651,16,Aporo
+652,16,Angangueo
+653,16,Jungapeo
+654,16,Zit�cuaro
+655,16,Tuzantla
+656,16,Susupuato
+657,16,P�tzcuaro
+658,16,Erongar�cuaro
+659,16,Huiramba
+660,16,Tac�mbaro
+661,16,Turicato
+662,16,Ziracuaretiro
+663,16,Taretan
+664,16,Gabriel Zamora
+665,16,Nuevo Urecho
+666,16,M�gica
+667,16,Salvador Escalante
+668,16,Ario
+669,16,La Huacana
+670,16,Churumuco
+671,16,Nocup�taro
+672,16,Car�cuaro
+673,16,Huetamo
+674,16,San Lucas
+675,17,Cuernavaca
+676,17,Tepoztl�n
+677,17,Tlalnepantla
+678,17,Tlayacapan
+679,17,Jiutepec
+680,17,Temixco
+681,17,Miacatl�n
+682,17,Coatl�n del R�o
+683,17,Tetecala
+684,17,Mazatepec
+685,17,Amacuzac
+686,17,Puente de Ixtla
+687,17,Ayala
+688,17,Yautepec
+689,17,Cuautla
+690,17,Tlaltizap�n de Zapata
+691,17,Zacatepec
+692,17,Xochitepec
+693,17,Tetela del Volc�n
+694,17,Yecapixtla
+695,17,Totolapan
+696,17,Atlatlahucan
+697,17,Ocuituco
+698,17,Temoac
+699,17,Zacualpan de Amilpas
+700,17,Jojutla
+701,17,Tepalcingo
+702,17,Jonacatepec de Leandro Valle
+703,17,Axochiapan
+704,17,Jantetelco
+705,17,Tlaquiltenango
+706,18,Tepic
+707,18,Santiago Ixcuintla
+708,18,Acaponeta
+709,18,Tecuala
+710,18,La Yesca
+711,18,Ru�z
+712,18,Rosamorada
+713,18,Compostela
+714,18,Bah�a de Banderas
+715,18,San Blas
+716,18,Xalisco
+717,18,San Pedro Lagunillas
+718,18,Jala
+719,18,Ahuacatl�n
+720,18,Ixtl�n del R�o
+721,18,Amatl�n de Ca�as
+722,19,Monterrey
+723,19,An�huac
+724,19,Bustamante
+725,19,Sabinas Hidalgo
+726,19,Villaldama
+727,19,Salinas Victoria
+728,19,Ci�nega de Flores
+729,19,General Zuazua
+730,19,Agualeguas
+731,19,General Trevi�o
+732,19,Cerralvo
+733,19,Garc�a
+734,19,General Escobedo
+735,19,Santa Catarina
+736,19,San Pedro Garza Garc�a
+737,19,San Nicol�s de los Garza
+738,19,El Carmen
+739,19,Apodaca
+740,19,Pesquer�a
+741,19,General Bravo
+742,19,China
+743,19,Guadalupe
+744,19,Santiago
+745,19,General Ter�n
+746,19,Cadereyta Jim�nez
+747,19,Montemorelos
+748,19,Linares
+749,19,Galeana
+750,19,Hualahuises
+751,19,Doctor Arroyo
+752,19,Aramberri
+753,19,General Zaragoza
+754,20,Oaxaca de Ju�rez
+755,20,Villa de Etla
+756,20,San Francisco Telixtlahuaca
+757,20,San Pablo Huitzo
+758,20,Santiago Suchilquitongo
+759,20,San Juan Bautista Guelache
+760,20,San Agust�n Etla
+761,20,San Pablo Etla
+762,20,San Felipe Tejal�pam
+763,20,San Lorenzo Cacaotepec
+764,20,Tlalixtac de Cabrera
+765,20,San Jacinto Amilpas
+766,20,San Andr�s Huay�pam
+767,20,Santa Mar�a del Tule
+768,20,San Juan Bautista Tuxtepec
+769,20,Loma Bonita
+770,20,Cosolapa
+771,20,Acatl�n de P�rez Figueroa
+772,20,San Miguel Soyaltepec
+773,20,San Felipe Jalapa de D�az
+774,20,San Juan Bautista Valle Nacional
+775,20,Huautla de Jim�nez
+776,20,Santa Mar�a Chilchotla
+777,20,Teotitl�n de Flores Mag�n
+778,20,San Juan Bautista Cuicatl�n
+779,20,Chiquihuitl�n de Benito Ju�rez
+780,20,San Andr�s Teotil�lpam
+781,20,Natividad
+782,20,Santiago Comaltepec
+783,20,Villa Talea de Castro
+784,20,San Juan Juquila Vijanos
+785,20,Heroica Ciudad de Huajuapan de Le�n
+786,20,Santiago Chazumba
+787,20,Mariscala de Ju�rez
+788,20,Villa de Tamazul�pam del Progreso
+789,20,San Andr�s Lagunas
+790,20,Asunci�n Nochixtl�n
+791,20,Santiago Juxtlahuaca
+792,20,San Sebasti�n Tecomaxtlahuaca
+793,20,San Juan Mixtepec -Dto. 08 -
+794,20,Heroica Ciudad de Tlaxiaco
+795,20,San Juan �um�
+796,20,Santa Cruz Nundaco
+797,20,Santo Tom�s Ocotepec
+798,20,Santa Mar�a Yosoy�a
+799,20,Magdalena Jaltepec
+800,20,Heroica Ciudad de Juchit�n de Zaragoza
+801,20,Ciudad Ixtepec
+802,20,El Espinal
+803,20,Santa Mar�a Xadani
+804,20,Santiago Niltepec
+805,20,Asunci�n Ixtaltepec
+806,20,Uni�n Hidalgo
+807,20,Santo Domingo Zanatepec
+808,20,Reforma de Pineda
+809,20,San Francisco Ixhuat�n
+810,20,San Pedro Tapanatepec
+811,20,Chahuites
+812,20,San Juan Cotzoc�n
+813,20,Mat�as Romero Avenda�o
+814,20,San Juan Guichicovi
+815,20,Santa Mar�a Petapa
+816,20,El Barrio de la Soledad
+817,20,Tlacolula de Matamoros
+818,20,San Francisco Lachigol�
+819,20,San Pablo Villa de Mitla
+820,20,Santiago Matatl�n
+821,20,San Pedro Totol�pam
+822,20,San Carlos Yautepec
+823,20,Nejapa de Madero
+824,20,Salina Cruz
+825,20,Santa Mar�a Jalapa del Marqu�s
+826,20,Santiago Laollaga
+827,20,Santa Mar�a Guienagati
+828,20,Magdalena Tequisistl�n
+829,20,Santo Domingo Tehuantepec
+830,20,San Pedro Huilotepec
+831,20,San Mateo del Mar
+832,20,San Blas Atempa
+833,20,Miahuatl�n de Porfirio D�az
+834,20,San Pedro Pochutla
+835,20,Santa Mar�a Colotepec
+836,20,Santa Mar�a Tonameca
+837,20,Santa Mar�a Huatulco
+838,20,Putla Villa de Guerrero
+839,20,Santa Mar�a Zacatepec
+840,20,Chalcatongo de Hidalgo
+841,20,San Miguel el Grande
+842,20,Santa Cruz Itundujia
+843,20,Zimatl�n de �lvarez
+844,20,Santa Mar�a Atzompa
+845,20,Santa Cruz Amilpas
+846,20,Santa Cruz Xoxocotl�n
+847,20,Santa Luc�a del Camino
+848,20,San Pedro Ixtlahuaca
+849,20,San Antonio de la Cal
+850,20,San Pablo Huixtepec
+851,20,Villa de Zaachila
+852,20,Ayoquezco de Aldama
+853,20,San Mateo Yucutindoo
+854,20,Santiago Amoltepec
+855,20,Cuil�pam de Guerrero
+856,20,Villa Sola de Vega
+857,20,Heroica Ciudad de Ejutla de Crespo
+858,20,Ocotl�n de Morelos
+859,20,Asunci�n Ocotl�n
+860,20,San Pedro Ap�stol
+861,20,Santiago Pinotepa Nacional
+862,20,San Juan Cacahuatepec
+863,20,San Juan Bautista Lo de Soto
+864,20,Santiago Jamiltepec
+865,20,San Juan Colorado
+866,20,San Pedro Jicay�n
+867,20,San Agust�n Chayuco
+868,20,Villa de Tututepec de Melchor Ocampo
+869,20,Santa Catarina Juquila
+870,20,Santos Reyes Nopala
+871,20,San Pedro Mixtepec
+872,21,Puebla
+873,21,Juan C. Bonilla
+874,21,Cuautlancingo
+875,21,San Pedro Cholula
+876,21,San Andr�s Cholula
+877,21,Ocoyucan
+878,21,Amozoc
+879,21,Francisco Z. Mena
+880,21,Jalpan
+881,21,Xicotepec
+882,21,Huauchinango
+883,21,Ahuazotepec
+884,21,Juan Galindo
+885,21,Tlaola
+886,21,Jopala
+887,21,Chignahuapan
+888,21,Zacatl�n
+889,21,Hermenegildo Galeana
+890,21,Olintla
+891,21,Nauzontla
+892,21,Hueytamalco
+893,21,Acateno
+894,21,Tetela de Ocampo
+895,21,Zacapoaxtla
+896,21,Ixtacamaxtitl�n
+897,21,Zautla
+898,21,Ocotepec
+899,21,Libres
+900,21,Teziutl�n
+901,21,Tlatlauquitepec
+902,21,Yaon�huac
+903,21,Hueyapan
+904,21,Teteles de Avila Castillo
+905,21,Chignautla
+906,21,Xiutetelco
+907,21,Cuyoaco
+908,21,Tepeyahualco
+909,21,San Mart�n Texmelucan
+910,21,Tlahuapan
+911,21,San Mat�as Tlalancaleca
+912,21,San Salvador el Verde
+913,21,Huejotzingo
+914,21,Atlixco
+915,21,Tochimilco
+916,21,Huaquechula
+917,21,Iz�car de Matamoros
+918,21,Tlapanal�
+919,21,Chietla
+920,21,Ixcamilpa de Guerrero
+921,21,Tulcingo
+922,21,Petlalcingo
+923,21,Rafael Lara Grajales
+924,21,Oriental
+925,21,Tlachichuca
+926,21,Quimixtl�n
+927,21,Acajete
+928,21,Nopalucan
+929,21,Mazapiltepec de Ju�rez
+930,21,Soltepec
+931,21,San Salvador el Seco
+932,21,Tepeaca
+933,21,Cuautinch�n
+934,21,Tecali de Herrera
+935,21,Huatlatlauca
+936,21,Cuapiaxtla de Madero
+937,21,Quecholac
+938,21,Tecamachalco
+939,21,Palmar de Bravo
+940,21,Chalchicomula de Sesma
+941,21,Esperanza
+942,21,Tochtepec
+943,21,Xochitl�n Todos Santos
+944,21,Yehualtepec
+945,21,Tlacotepec de Benito Ju�rez
+946,21,Tehuac�n
+947,21,Atexcal
+948,21,San Gabriel Chilac
+949,21,Zoquitl�n
+950,21,Altepexi
+951,21,Zinacatepec
+952,21,Coxcatl�n
+953,22,Quer�taro
+954,22,El Marqu�s
+955,22,Col�n
+956,22,Pinal de Amoles
+957,22,Jalpan de Serra
+958,22,Landa de Matamoros
+959,22,Arroyo Seco
+960,22,Pe�amiller
+961,22,Cadereyta de Montes
+962,22,San Joaqu�n
+963,22,Tolim�n
+964,22,Ezequiel Montes
+965,22,Pedro Escobedo
+966,22,Tequisquiapan
+967,22,Amealco de Bonfil
+968,22,Corregidora
+969,22,Huimilpan
+970,23,Canc�n
+971,23,Felipe Carrillo Puerto
+972,23,Isla Mujeres
+973,23,Puerto Morelos
+974,23,Cozumel
+975,23,Solidaridad
+976,23,Tulum
+977,23,Jos� Mar�a Morelos
+978,23,Bacalar
+979,24,San Luis Potos�
+980,24,Soledad de Graciano S�nchez
+981,24,Cerro de San Pedro
+982,24,Ahualulco
+983,24,Mexquitic de Carmona
+984,24,Villa de Arriaga
+985,24,Cedral
+986,24,Charcas
+987,24,Salinas
+988,24,Matehuala
+989,24,Villa de la Paz
+990,24,Guadalc�zar
+991,24,Moctezuma
+992,24,Venado
+993,24,Villa de Arista
+994,24,Ciudad Valles
+995,24,Ebano
+996,24,Tamu�n
+997,24,El Naranjo
+998,24,Ciudad del Ma�z
+999,24,Alaquines
+1000,24,C�rdenas
+1001,24,Cerritos
+1002,24,Villa de Reyes
+1003,24,Santa Mar�a del R�o
+1004,24,Tierra Nueva
+1005,24,Rioverde
+1006,24,Ciudad Fern�ndez
+1007,24,San Ciro de Acosta
+1008,24,Tamasopo
+1009,24,Aquism�n
+1010,24,Tancanhuitz
+1011,24,San Vicente Tancuayalab
+1012,24,Tanqui�n de Escobedo
+1013,24,Xilitla
+1014,24,Axtla de Terrazas
+1015,24,San Mart�n Chalchicuautla
+1016,24,Tamazunchale
+1017,24,Matlapa
+1018,25,Culiac�n
+1019,25,Navolato
+1020,25,Cosal�
+1021,25,Mocorito
+1022,25,Guasave
+1023,25,Ahome
+1024,25,Salvador Alvarado
+1025,25,Angostura
+1026,25,Choix
+1027,25,El Fuerte
+1028,25,Sinaloa
+1029,25,Mazatl�n
+1030,25,Escuinapa
+1031,25,Concordia
+1032,25,Elota
+1033,25,Rosario
+1034,25,San Ignacio
+1035,25,Hermosillo
+1036,25,Carb�
+1037,25,San Luis R�o Colorado
+1038,25,Puerto Pe�asco
+1039,26,General Plutarco El�as Calles
+1040,26,Caborca
+1041,26,Altar
+1042,26,Benjam�n Hill
+1043,26,Pitiquito
+1044,26,Nogales
+1045,26,Imuris
+1046,26,Naco
+1047,26,Agua Prieta
+1048,26,Fronteras
+1049,26,Nacozari de Garc�a
+1050,26,Huachinera
+1051,26,Bacad�huachi
+1052,26,Cumpas
+1053,26,Hu�sabas
+1054,26,Santa Ana
+1055,26,Cananea
+1056,26,Arizpe
+1057,26,Bacoachi
+1058,26,Hu�pac
+1059,26,Bavi�cora
+1060,26,Cajeme
+1061,26,Huatabampo
+1062,26,B�cum
+1063,26,Etchojoa
+1064,26,Empalme
+1065,26,Guaymas
+1066,26,San Ignacio R�o Muerto
+1067,26,Sahuaripa
+1068,26,Alamos
+1069,26,Navojoa
+1070,27,Centro
+1071,27,Jalpa de M�ndez
+1072,27,Nacajuca
+1073,27,Comalcalco
+1074,27,Huimanguillo
+1075,27,Para�so
+1076,27,Cunduac�n
+1077,27,Macuspana
+1078,27,Centla
+1079,27,Jonuta
+1080,27,Teapa
+1081,27,Jalapa
+1082,27,Tacotalpa
+1083,27,Tenosique
+1084,27,Balanc�n
+1085,28,Victoria
+1086,28,Llera
+1087,28,Valle Hermoso
+1088,28,Cruillas
+1089,28,San Nicol�s
+1090,28,Soto la Marina
+1091,28,San Carlos
+1092,28,Padilla
+1093,28,Tula
+1094,28,Jaumave
+1095,28,Miquihuana
+1096,28,Palmillas
+1097,28,Nuevo Laredo
+1098,28,Miguel Alem�n
+1099,28,Mier
+1100,28,Gustavo D�az Ordaz
+1101,28,Reynosa
+1102,28,R�o Bravo
+1103,28,M�ndez
+1104,28,Burgos
+1105,28,Tampico
+1106,28,Ciudad Madero
+1107,28,Altamira
+1108,28,Gonz�lez
+1109,28,Xicot�ncatl
+1110,28,El Mante
+1111,28,Antiguo Morelos
+1112,28,Nuevo Morelos
+1113,29,Tlaxcala
+1114,29,Ixtacuixtla de Mariano Matamoros
+1115,29,Santa Ana Nopalucan
+1116,29,Tepeyanco
+1117,29,Calpulalpan
+1118,29,Hueyotlipan
+1119,29,Tlaxco
+1120,29,Nanacamilpa de Mariano Arista
+1121,29,Espa�ita
+1122,29,Apizaco
+1123,29,Atlangatepec
+1124,29,Tetla de la Solidaridad
+1125,29,Xaltocan
+1126,29,Yauhquemehcan
+1127,29,Xaloztoc
+1128,29,Tocatl�n
+1129,29,Tzompantepec
+1130,29,San Jos� Teacalco
+1131,29,Huamantla
+1132,29,Terrenate
+1133,29,Atltzayanca
+1134,29,Cuapiaxtla
+1135,29,El Carmen Tequexquitla
+1136,29,Ziltlalt�pec de Trinidad S�nchez Santos
+1137,29,Santa Cruz Tlaxcala
+1138,29,Cuaxomulco
+1139,29,Contla de Juan Cuamatzi
+1140,29,Nat�vitas
+1141,29,San Dami�n Tex�loc
+1142,29,Zacatelco
+1143,29,Santa Catarina Ayometla
+1144,29,Papalotla de Xicoht�ncatl
+1145,29,Chiautempan
+1146,29,La Magdalena Tlaltelulco
+1147,29,San Francisco Tetlanohcan
+1148,29,Teolocholco
+1149,29,Acuamanala de Miguel Hidalgo
+1150,29,San Pablo del Monte
+1151,30,Xalapa
+1152,30,Tlalnelhuayocan
+1153,30,Xico
+1154,30,Ayahualulco
+1155,30,Perote
+1156,30,Banderilla
+1157,30,Las Vigas de Ram�rez
+1158,30,Villa Aldama
+1159,30,Coacoatzintla
+1160,30,Naolinco
+1161,30,Tepetl�n
+1162,30,Juchique de Ferrer
+1163,30,Alto Lucero de Guti�rrez Barrios
+1164,30,Coatepec
+1165,30,Teocelo
+1166,30,Puente Nacional
+1167,30,Ursulo Galv�n
+1168,30,Paso de Ovejas
+1169,30,La Antigua
+1170,30,Veracruz
+1171,30,P�nuco
+1172,30,Pueblo Viejo
+1173,30,Tampico Alto
+1174,30,Tempoal
+1175,30,Ozuluama de Mascare�as
+1176,30,Tantoyuca
+1177,30,Plat�n S�nchez
+1178,30,Chalma
+1179,30,Naranjos Amatl�n
+1180,30,El Higo
+1181,30,Chinampa de Gorostiza
+1182,30,Cerro Azul
+1183,30,Huayacocotla
+1184,30,Chicontepec
+1185,30,�lamo Temapache
+1186,30,Tihuatl�n
+1187,30,Cazones de Herrera
+1188,30,Filomeno Mata
+1189,30,Coatzintla
+1190,30,Espinal
+1191,30,Poza Rica de Hidalgo
+1192,30,Papantla
+1193,30,Guti�rrez Zamora
+1194,30,Tecolutla
+1195,30,Mart�nez de la Torre
+1196,30,San Rafael
+1197,30,Tlapacoyan
+1198,30,Atzalan
+1199,30,Altotonga
+1200,30,Misantla
+1201,30,Chiconquiaco
+1202,30,Yecuatla
+1203,30,Vega de Alatorre
+1204,30,Totutla
+1205,30,Huatusco
+1206,30,Coscomatepec
+1207,30,Chocam�n
+1208,30,Ixhuatl�n del Caf�
+1209,30,Zentla
+1210,30,Soledad de Doblado
+1211,30,Manlio Fabio Altamirano
+1212,30,Medell�n de Bravo
+1213,30,Boca del R�o
+1214,30,Orizaba
+1215,30,Mariano Escobedo
+1216,30,Ixhuatlancillo
+1217,30,Ixtaczoquitl�n
+1218,30,Fort�n
+1219,30,C�rdoba
+1220,30,R�o Blanco
+1221,30,Camerino Z. Mendoza
+1222,30,Acultzingo
+1223,30,Soledad Atzompa
+1224,30,Huiloapan de Cuauht�moc
+1225,30,Tlilapan
+1226,30,Naranjal
+1227,30,Omealca
+1228,30,Cuitl�huac
+1229,30,Cuichapa
+1230,30,Yanga
+1231,30,Amatl�n de los Reyes
+1232,30,Atoyac
+1233,30,Paso del Macho
+1234,30,Cotaxtla
+1235,30,Texhuac�n
+1236,30,Tezonapa
+1237,30,Tierra Blanca
+1238,30,Alvarado
+1239,30,Lerdo de Tejada
+1240,30,Tres Valles
+1241,30,Carlos A. Carrillo
+1242,30,Cosamaloapan de Carpio
+1243,30,Amatitl�n
+1244,30,Tlacotalpan
+1245,30,Saltabarranca
+1246,30,Tlacojalpan
+1247,30,Jos� Azueta
+1248,30,Playa Vicente
+1249,30,Isla
+1250,30,Juan Rodr�guez Clara
+1251,30,San Andr�s Tuxtla
+1252,30,Santiago Tuxtla
+1253,30,Angel R. Cabada
+1254,30,Hueyapan de Ocampo
+1255,30,Catemaco
+1256,30,Soteapan
+1257,30,Mecayapan
+1258,30,Pajapan
+1259,30,Chinameca
+1260,30,Acayucan
+1261,30,San Juan Evangelista
+1262,30,Sayula de Alem�n
+1263,30,Oluta
+1264,30,Soconusco
+1265,30,Texistepec
+1266,30,J�ltipan
+1267,30,Oteapan
+1268,30,Cosoleacaque
+1269,30,Nanchital de L�zaro C�rdenas del R�o
+1270,30,Ixhuatl�n del Sureste
+1271,30,Moloac�n
+1272,30,Coatzacoalcos
+1273,30,Agua Dulce
+1274,30,Jes�s Carranza
+1275,30,Las Choapas
+1276,30,Uxpanapa
+1277,31,M�rida
+1278,31,Progreso
+1279,31,Hunucm�
+1280,31,Uc�
+1281,31,Kanas�n
+1282,31,Acanceh
+1283,31,Um�n
+1284,31,Telchac Pueblo
+1285,31,Dzemul
+1286,31,Sinanch�
+1287,31,Motul
+1288,31,Cacalch�n
+1289,31,Dzidzant�n
+1290,31,Izamal
+1291,31,Sey�
+1292,31,Tizim�n
+1293,31,Espita
+1294,31,Tekom
+1295,31,Chemax
+1296,31,Valladolid
+1297,31,Maxcan�
+1298,31,Halach�
+1299,31,Muna
+1300,31,Ticul
+1301,31,Oxkutzcab
+1302,31,Peto
+1303,31,Tzucacab
+1304,31,Tekax
+1305,31,Akil
+1306,32,Zacatecas
+1307,32,Concepci�n del Oro
+1308,32,Juan Aldama
+1309,32,Miguel Auza
+1310,32,General Francisco R. Murgu�a
+1311,32,R�o Grande
+1312,32,Villa de Cos
+1313,32,Calera
+1314,32,General Enrique Estrada
+1315,32,Trancoso
+1316,32,Genaro Codina
+1317,32,Ojocaliente
+1318,32,General P�nfilo Natera
+1319,32,Luis Moya
+1320,32,Villa Garc�a
+1321,32,Pinos
+1322,32,Fresnillo
+1323,32,Sombrerete
+1324,32,Sain Alto
+1325,32,Valpara�so
+1326,32,Jerez
+1327,32,Monte Escobedo
+1328,32,Villanueva
+1329,32,Tepetongo
+1330,32,Jalpa
+1331,32,Tabasco
+1332,32,Huanusco
+1333,32,Momax
+1334,32,Atolinga
+1335,32,Tepechitl�n
+1336,32,Te�l de Gonz�lez Ortega
+1337,32,Santa Mar�a de la Paz
+1338,32,Nochistl�n de Mej�a
+1339,32,Juchipila
+1340,32,Moyahua de Estrada

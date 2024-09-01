@@ -1,0 +1,53 @@
+1#Funcionario y/o alta autoridad de los sectores público, privado y social
+2#Director y/o gerente en servicios financieros, administrativos y sociales
+3#Director y/o gerente en producción, tecnología y transporte
+4#Director y/o gerente de ventas, restaurantes, hoteles y otros establecimientos 
+5#Coordinador y jefe de área en servicios financieros, administrativos y sociales
+6#Coordinador y jefe de área en producción y tecnología
+7#Coordinador y jefe de área de ventas, restaurantes, hoteles y otros establecimientos
+8#Director, funcionario, gerente, coordinador y jefe de área, no clasificados anteriormente
+9#Especialista en ciencias económico-administrativas, ciencias sociales, humanistas y en artes 
+10#Investigador y/o especialista en ciencias exactas, biológicas, ingeniería, informática y en telecomunicaciones
+11#Profesor y/o especialista en docencia
+12#Médico, enfermera y/o otro especialista en salud
+13#Auxiliar y/o técnico en ciencias económico-administrativas, ciencias sociales, humanistas y/o en artes
+14#Auxiliar y/o técnico en ciencias exactas, biológicas, ingeniería, informática y/o en telecomunicaciones
+15#Auxiliar y/o técnico en educación, instructor y/o capacitador
+16#Enfermera, técnico en medicina y/o trabajador de apoyo en salud
+17#Especialista y/o técnico, no clasificados anteriormente
+18#Secretaria, capturista, cajero y/o trabajador de control de archivo y transporte
+19#Trabajador que brindan y manejan información
+20#Secretaria, capturista, cajero y/o trabajador que brinda información, no clasificado anteriormente
+21#Comerciante en establecimiento
+22#Empleado de ventas en establecimiento
+23#Trabajador en el alquiler
+24#Comerciante, empleado en ventas y/o agente de ventas en establecimiento, no clasificado anteriormente
+25#Trabajador en la preparación y/o servicio de alimentos y/o bebidas en establecimiento
+26#Trabajador en cuidados personales y/o del hogar
+27#Trabajador en servicios de protección y/o vigilancia
+28#Trabajador de la Armada, Ejército y/o Fuerza Aérea
+29#Ocupacion en servicios personales y/o vigilancia, no clasificadas anteriormente
+30#Trabajador en actividades agrícolas y/o ganaderas
+31#Trabajador en actividades pesqueras, forestales, caza y/o similares
+32#Operador de maquinaria agropecuaria y/o forestal
+33#Trabajadore en actividades agrícolas, ganaderas, forestales, caza y/o pesca, no clasificado anteriormente
+34#Trabajador en la extracción y/o la edificación de construcciones
+35#Artesano y/o trabajador en el tratamiento y elaboración de productos de metal
+36#Artesano y/o trabajador en la elaboración de productos de madera, papel, textiles y/o de cuero y/o piel
+37#Artesano y trabajador en la elaboración de productos de hule, caucho, plásticos y/o de sustancias químicas
+38#Trabajador en la elaboración y/o procesamiento de alimentos, bebidas y/o productos de tabaco
+39#Artesano y/o trabajador en la elaboración de productos de cerámica, vidrio, azulejo y/o similares
+40#Trabajador artesanal, no clasificado anteriormente
+41#Operador de instalaciones y/o maquinaria industrial
+42#Ensamblador y montador de herramientas, maquinaria, productos metálicos y/o electrónicos
+43#Conductor de transporte y/o de maquinaria móvil
+44#Operador de maquinaria industrial, ensambladores y/o conductor de transporte, no clasificado anteriormente
+45#Trabajador de apoyo en actividades agropecuarias, forestales, pesca y/o caza
+46#Trabajador de apoyo en la minería, construcción e industria
+47#Ayudante de conductor de transporte, conductor de transporte de tracción humana y/o animal y/o cargador
+48#Ayudante en la preparación de alimentos
+49#Vendedor ambulante
+50#Trabajador doméstico, de limpieza, planchadores y otro trabajador de limpieza
+51#Trabajador de paquetería, de apoyo para espectáculos y/o repartidor de mercancías
+52#Trabajador en actividades elementales y de apoyo, no clasificado anteriormente
+53#Ocupacion no especificada
