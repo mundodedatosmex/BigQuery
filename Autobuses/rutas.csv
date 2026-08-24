@@ -1,0 +1,9 @@
+id_ruta,destino,distancia_km,tiempo_hrs,precio_base
+1,"Puebla, Pue.",130,2.0,180.0
+2,"Veracruz, Ver.",400,5.5,650.0
+3,"Oaxaca, Oax.",460,6.5,780.0
+4,"Villahermosa, Tab.",850,11.0,1250.0
+5,"Tapachula, Chis.",940,14.0,1450.0
+6,"Xalapa, Ver.",300,4.0,480.0
+7,"Córdoba, Ver.",280,3.8,450.0
+8,"Tuxtla Gutiérrez, Chis.",830,10.5,1150.0
